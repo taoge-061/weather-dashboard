@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# macOS files
+.DS_Store
+
+# Logs
+*.log
+
+# Build directories
+/dist
+/build
+
+# Dependency directories
+/bower_components
+
+# Miscellaneous
+*.tgz
+*.zip
+*.tar.gz
